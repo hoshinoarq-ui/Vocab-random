@@ -1,0 +1,6 @@
+{
+  "name": "WordVault AI - สุ่มคำศัพท์ภาษาอังกฤษจับคู่ภาพอัจฉริยะ",
+  "description": "เว็บสุ่มคำศัพท์ภาษาอังกฤษพร้อมคลังรูปภาพ AI วิเคราะห์จับคู่ภาพที่ตรงกับคำศัพท์แบบละเอียด พร้อมระบบเฉลยและฝึกฝนคำศัพท์ไม่รู้จบ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
